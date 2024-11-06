@@ -1,0 +1,2 @@
+#rossz parancs
+CMD,1016
